@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb0ac7c8-80e3-4f1b-967c-e29b3a37f7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fase2/cap2_if_else_elif/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase2/cap3_loop/README.md" afterDir="false" />
+    <list default="true" id="eb0ac7c8-80e3-4f1b-967c-e29b3a37f7d6" name="Default Changelist" comment="ReadMe files updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fase2/cap3_loop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -205,6 +203,14 @@
       <option name="presentableId" value="Default" />
       <updated>1615787057505</updated>
     </task>
+    <task id="LOCAL-00001" summary="ReadMe files updated">
+      <created>1617558580068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617558580068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ReadMe files updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReadMe files updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

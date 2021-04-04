@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb0ac7c8-80e3-4f1b-967c-e29b3a37f7d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fase2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase2/if_else_elif/RM88838_EX01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase2/if_else_elif/RM88838_EX02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase2/if_else_elif/RM88838_EX03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase2/if_else_elif/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="eb0ac7c8-80e3-4f1b-967c-e29b3a37f7d6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,11 +40,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fase2/cap3_loop" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thais\PyCharm\FIAP-ADS\fase2\cap3_loop" />
       <recent name="C:\Users\thais\PycharmProjects\pythonProject\FIAP\fase2\cap3Loop" />
       <recent name="C:\Users\thais\PycharmProjects\pythonProject\FIAP\fase2\cap2IfList" />
     </key>

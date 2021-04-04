@@ -12,3 +12,4 @@ while True:
     else:
         print("A ação falhou...")
         break
+input()
